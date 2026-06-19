@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=250&section=header&text=Passport%20Face%20Detection&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=250&section=header&text=Passport%20Photo%20Face%20Detection&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
@@ -10,16 +10,6 @@
   <img src="https://img.shields.io/badge/Haar%20Cascade-Face%20Detection-red" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" />
   <img src="https://img.shields.io/badge/Status-Completed-success" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mehar-taj">
-    <img src="https://img.shields.io/badge/GitHub-Mehar--taj-181717?style=for-the-badge&logo=github" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/mehar-taj-a654102b6">
-    <img src="https://img.shields.io/badge/LinkedIn-Mehar%20Taj-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
 </p>
 
 ---
